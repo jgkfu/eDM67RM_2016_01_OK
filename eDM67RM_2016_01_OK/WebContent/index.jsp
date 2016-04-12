@@ -48,6 +48,7 @@
  <% // 顯示MsgOK.InsertOK後，就要立刻移除，以免每次回到首 頁都會顯示新增成功的訊息
     session.removeAttribute("MsgOK");  
  %>
+ <p>這是正版<p>
  </CENTER> 
 </body>
 </html>
