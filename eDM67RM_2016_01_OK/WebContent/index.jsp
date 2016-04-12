@@ -49,6 +49,7 @@
     session.removeAttribute("MsgOK");  
  %>
  <p>哈嚕Git<p>
+ <p>哈嚕Git的衝突<p>
  </CENTER> 
 </body>
 </html>
